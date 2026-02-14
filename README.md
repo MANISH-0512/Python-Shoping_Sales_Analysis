@@ -1,6 +1,6 @@
 # Python-Shoping_Sales_Analysis
 
-**Executive Summary**
+Executive Summary
 
 1.Analyzed 11,000+ customer transaction records to understand shopping behavior and sales trends.
 
@@ -12,7 +12,7 @@
 
 5.Provided actionable insights to improve sales strategy and customer targeting.
 
-**  Business Analysis **
+ Business Analysis 
 
 1.Top Revenue Contributors: Age group 26–35 generated the highest sales revenue.
 
@@ -24,7 +24,7 @@
 
 5.Occupation Impact: Customers in Healthcare, IT, and Government sectors had higher spending capacity.
 
-** Methodology**
+ Methodology
 
 1.Data Cleaning: Removed null values, duplicates, and corrected data types using Pandas.
 
@@ -36,7 +36,7 @@
 
 5.Insight Extraction: Compared sales trends across demographics to derive business insights.
 
-**Skills and Tools Used**
+Skills and Tools Used
 
 1.Python Programming – Data manipulation and analysis.
 
@@ -48,7 +48,7 @@
 
 5.Exploratory Data Analysis (EDA) – Identifying trends, correlations, and patterns.
 
-** Results**
+ Results
 
 1.Customers aged 26–35 are the most profitable segment.
 
@@ -60,7 +60,7 @@
 
 5.Clear demographic trends allow better customer segmentation strategies.
 
-**Next Steps / Recommendations**
+Next Steps / Recommendations
 
 1.Target marketing campaigns toward the 26–35 age group for maximum ROI.
 
