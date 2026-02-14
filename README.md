@@ -1,6 +1,6 @@
 # Python-Shoping_Sales_Analysis
 
-Executive Summary
+**Executive Summary**
 
 1.Analyzed 11,000+ customer transaction records to understand shopping behavior and sales trends.
 
