@@ -1,4 +1,4 @@
-# Python-Shoping_Sales_Analysis
+# Shoping_Sales_Analysis
 
 ## Executive Summary :
 
