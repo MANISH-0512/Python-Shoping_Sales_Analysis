@@ -24,7 +24,7 @@
 
 5.Occupation Impact: Customers in Healthcare, IT, and Government sectors had higher spending capacity.
 
-** Methodology**
+** Methodology **
 
 1.Data Cleaning: Removed null values, duplicates, and corrected data types using Pandas.
 
@@ -48,7 +48,7 @@
 
 5.Exploratory Data Analysis (EDA) – Identifying trends, correlations, and patterns.
 
-** Results**
+** Results **
 
 1.Customers aged 26–35 are the most profitable segment.
 
